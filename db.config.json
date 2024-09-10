@@ -1,0 +1,6 @@
+{
+  "SimulatedMode": false,
+  "DatabaseUrl": "http://YOUR_MIDDLEWARE_PUBLIC_IP:10000",
+  "DatabaseUsername": "MIDDLEWARE_ADMIN_USERNAME",
+  "DatabasePassword": "MIDDLEWARE_ADMIN_PASSWORD"
+}
